@@ -1,0 +1,16 @@
+
+.blog{
+    background-color: green;
+    border: 13px solid yellow;
+    border-radius: 15px;
+    padding: 10px 15px 10px 40px;
+    
+    margin: 10px auto;
+}
+.position{
+    text-align: center;
+
+}
+.ami{
+    text-align: justify;
+}
